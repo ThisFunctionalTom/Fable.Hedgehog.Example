@@ -3,6 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Hedgehog.Mocha.fs" />
     <Compile Include="Tests.fs" />
   </ItemGroup>
   <ItemGroup>
