@@ -1,6 +1,5 @@
-
 node_modules/
-
 .ionide/
-
 tests-js/
+obj/
+bin/

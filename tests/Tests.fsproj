@@ -8,6 +8,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Fable.Mocha" Version="2.7.0" />
-    <PackageReference Include="Hedgehog" Version="0.8.3.1" />
+    <PackageReference Include="Hedgehog" Version="0.8.3.5" />
   </ItemGroup>
 </Project>

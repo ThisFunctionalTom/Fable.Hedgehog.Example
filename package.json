@@ -25,7 +25,7 @@
     "core-js": "^3.6.5",
     "css-loader": "^3.5.2",
     "dotenv-webpack": "^1.7.0",
-    "fable-compiler": "^2.5.0",
+    "fable-compiler": "^2.8.0",
     "fable-loader": "^2.1.9",
     "fable-splitter": "^2.1.13",
     "file-loader": "^6.0.0",
